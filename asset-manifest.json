@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2d6ce184.css",
+    "main.js": "/static/js/main.fcca9aba.js",
+    "static/js/787.82aac0c9.chunk.js": "/static/js/787.82aac0c9.chunk.js",
+    "static/media/Soft skill Certificate-1.png": "/static/media/Soft skill Certificate-1.590d84d979ecf2e9135d.png",
+    "static/media/React Cert.png": "/static/media/React Cert.f13727a80861d728082d.png",
+    "static/media/Gauteng.png": "/static/media/Gauteng.5924dede81d093e4eb90.png",
+    "static/media/ML Cert.png": "/static/media/ML Cert.d58fafec252cd1c1db8c.png",
+    "static/media/digital cert.png": "/static/media/digital cert.c4e557a51374c1e35ab3.png",
+    "static/media/DSCLead-Certificate2021.png": "/static/media/DSCLead-Certificate2021.12c8c2527f977a19d9e6.png",
+    "static/media/shape sip.png": "/static/media/shape sip.8303e44b48bf163dd64a.png",
+    "static/media/CISCO.png": "/static/media/CISCO.1a5c3f7ae505328598c8.png",
+    "static/media/profile_5.png": "/static/media/profile_5.82885c174cfaaa9e0a15.png",
+    "index.html": "/index.html",
+    "main.2d6ce184.css.map": "/static/css/main.2d6ce184.css.map",
+    "main.fcca9aba.js.map": "/static/js/main.fcca9aba.js.map",
+    "787.82aac0c9.chunk.js.map": "/static/js/787.82aac0c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d6ce184.css",
+    "static/js/main.fcca9aba.js"
+  ]
+}
